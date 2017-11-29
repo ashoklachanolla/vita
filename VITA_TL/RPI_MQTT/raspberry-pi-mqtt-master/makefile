@@ -1,0 +1,2 @@
+main:
+	g++ -I raspberry_osio_client/ -I../../../VITA_DM/Headers -I../../../VITA_DM/Source/json/ -I../../../VITA_DM/DSM/Headers/ -o program sample/main.cpp raspberry_osio_client/raspberry_osio_client.cpp -std=gnu++11 -lmosquitto -pthread -L$(curr_dir)../../../VITA_DM/Executables/lib -L$(curr_dir)../../../VITA_DM/DM_IoTvity -L$(curr_dir)../../../VITA_DM/DM_IoTvity/iotivity-1.2.1/out/linux/x86_64/release -lDM -lDSM -lDeM -lwifisearch -liw -lbtsearch -lblesearch -lcurl -ljson-c -lDM_iotivity -lcoap -lconnectivity_abstraction -loc_logger -loctbstack -loc

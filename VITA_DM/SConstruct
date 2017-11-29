@@ -1,0 +1,4 @@
+env = Environment()
+SConscript('DM_IoTvity/SConscript', exports='env')
+#SConscript('Test/IoTvity_Test/SConscript', exports='env')
+

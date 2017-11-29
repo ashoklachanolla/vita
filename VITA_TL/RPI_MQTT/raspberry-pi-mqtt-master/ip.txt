@@ -1,0 +1,76 @@
+Interface: eth0, datalink type: EN10MB (Ethernet)
+Starting arp-scan 1.8.1 with 256 hosts (http://www.nta-monitor.com/tools/arp-scan/)
+192.168.4.1	c0:ea:e4:59:24:58	Sonicwall
+192.168.4.2	b4:75:0e:ba:c8:02	(Unknown)
+192.168.4.4	fc:4d:d4:32:61:dc	(Unknown)
+192.168.4.6	c0:56:e3:13:9c:af	(Unknown)
+192.168.4.7	fc:4d:d4:32:61:ba	(Unknown)
+192.168.4.8	fc:4d:d4:32:62:8b	(Unknown)
+192.168.4.9	c8:cb:b8:5c:89:68	(Unknown)
+192.168.4.10	00:0b:82:7b:69:95	Grandstream Networks, Inc.
+192.168.4.14	fc:4d:d4:32:61:60	(Unknown)
+192.168.4.16	fc:4d:d4:32:62:28	(Unknown)
+192.168.4.17	b8:ae:ed:b0:9d:34	(Unknown)
+192.168.4.19	fc:4d:d4:32:61:de	(Unknown)
+192.168.4.20	00:1e:c9:de:22:ed	Dell Inc
+192.168.4.21	fc:4d:d4:32:62:5b	(Unknown)
+192.168.4.30	fc:4d:d4:32:61:c2	(Unknown)
+192.168.4.31	fc:4d:d4:32:61:d5	(Unknown)
+192.168.4.32	fc:4d:d4:32:62:0d	(Unknown)
+192.168.4.40	44:87:fc:de:c7:b5	ELITEGROUP COMPUTER SYSTEM CO., LTD.
+192.168.4.41	d0:27:88:3a:71:ac	Hon Hai Precision Ind.Co.Ltd
+192.168.4.52	00:25:11:5f:ad:88	ELITEGROUP COMPUTER SYSTEM CO., LTD.
+192.168.4.53	fc:4d:d4:32:61:f1	(Unknown)
+192.168.4.100	d0:27:88:3a:72:5a	Hon Hai Precision Ind.Co.Ltd
+192.168.4.106	fc:4d:d4:32:5f:31	(Unknown)
+192.168.4.112	d0:27:88:37:59:c4	Hon Hai Precision Ind.Co.Ltd
+192.168.4.114	c0:3f:d5:fe:f7:d4	(Unknown)
+192.168.4.115	c0:3f:d5:fe:fc:34	(Unknown)
+192.168.4.116	b8:ae:ed:a5:70:df	(Unknown)
+192.168.4.118	90:fb:a6:4c:f4:bc	Hon Hai Precision Ind.Co.Ltd
+192.168.4.119	b8:ae:ed:b0:9b:a7	(Unknown)
+192.168.4.120	68:5b:35:b3:61:90	(Unknown)
+192.168.4.128	d0:27:88:82:24:6d	Hon Hai Precision Ind.Co.Ltd
+192.168.4.133	d0:27:88:82:3a:0e	Hon Hai Precision Ind.Co.Ltd
+192.168.4.134	b8:ae:ed:af:37:22	(Unknown)
+192.168.4.135	90:fb:a6:4c:f3:f4	Hon Hai Precision Ind.Co.Ltd
+192.168.4.136	b8:ae:ed:af:37:45	(Unknown)
+192.168.4.113	00:73:8d:23:7d:e5	(Unknown)
+192.168.4.140	d0:27:88:19:15:8d	Hon Hai Precision Ind.Co.Ltd
+192.168.4.139	fc:4d:d4:32:61:78	(Unknown)
+192.168.4.144	fc:4d:d4:32:62:38	(Unknown)
+192.168.4.147	a4:ba:db:dc:1f:7b	Dell Inc.
+192.168.4.154	d0:27:88:37:59:fe	Hon Hai Precision Ind.Co.Ltd
+192.168.4.155	b8:27:eb:39:1a:2f	(Unknown)
+192.168.4.157	44:87:fc:de:cc:ce	ELITEGROUP COMPUTER SYSTEM CO., LTD.
+192.168.4.160	fc:4d:d4:32:62:b9	(Unknown)
+192.168.4.153	9c:b7:0d:8f:86:69	(Unknown)
+192.168.4.148	70:f1:a1:70:40:7f	Liteon Technology Corporation
+192.168.4.164	fc:4d:d4:32:62:d2	(Unknown)
+192.168.4.166	d0:27:88:37:59:1f	Hon Hai Precision Ind.Co.Ltd
+192.168.4.168	fc:4d:d4:32:61:e1	(Unknown)
+192.168.4.170	fc:4d:d4:32:62:5a	(Unknown)
+192.168.4.171	98:5a:eb:cb:ca:1a	(Unknown)
+192.168.4.121	e4:90:7e:8a:b9:ba	(Unknown)
+192.168.4.172	fc:4d:d4:32:61:73	(Unknown)
+192.168.4.173	fc:4d:d4:32:62:89	(Unknown)
+192.168.4.174	fc:4d:d4:32:62:07	(Unknown)
+192.168.4.178	fc:4d:d4:32:61:c8	(Unknown)
+192.168.4.179	98:5a:eb:cb:ed:08	(Unknown)
+192.168.4.182	fc:4d:d4:32:61:f4	(Unknown)
+192.168.4.184	68:5b:35:b3:60:8d	(Unknown)
+192.168.4.185	b8:ae:ed:a5:34:ca	(Unknown)
+192.168.4.189	c0:3f:d5:fe:6f:1d	(Unknown)
+192.168.4.190	fc:4d:d4:32:61:7c	(Unknown)
+192.168.4.194	fc:4d:d4:32:62:74	(Unknown)
+192.168.4.195	fc:4d:d4:32:62:2d	(Unknown)
+192.168.4.201	d0:bf:9c:06:83:1d	(Unknown)
+192.168.4.203	a4:ba:db:dc:28:10	Dell Inc.
+192.168.4.206	c0:3f:d5:fe:e8:9b	(Unknown)
+192.168.4.221	fc:4d:d4:32:61:74	(Unknown)
+192.168.4.222	40:61:86:c2:9b:59	MICRO-STAR INT'L CO.,LTD
+192.168.4.210	ac:ee:9e:82:de:94	(Unknown)
+192.168.4.183	bc:f5:ac:ae:3b:1c	(Unknown)
+
+71 packets received by filter, 0 packets dropped by kernel
+Ending arp-scan 1.8.1: 256 hosts scanned in 1.174 seconds (218.06 hosts/sec). 71 responded
